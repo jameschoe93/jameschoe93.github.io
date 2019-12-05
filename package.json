@@ -1,11 +1,11 @@
 {
     "title": "Resume",
-    "name": "startbootstrap-resume",
+    "name": "James Choe",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Portfolio Website.",
     "keywords": [
         "css",
         "sass",
@@ -14,9 +14,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "http://jameschoe93.github.io",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
+        "url": "http://jameschoe93.github.io",
         "email": "jameschoe93nz@gmail.com"
     },
     "license": "MIT",
